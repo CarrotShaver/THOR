@@ -2,3 +2,6 @@
 env
 *.pyc
 .env
+*.note
+.pem
+.bin
